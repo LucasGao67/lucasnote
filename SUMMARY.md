@@ -4,5 +4,3 @@
 
 ## Linux性能优化
 
-* [Readme](linux-xing-neng-you-hua/readme.md)
-
