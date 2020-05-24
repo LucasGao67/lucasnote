@@ -4,5 +4,4 @@
 
 ## Linux性能优化实战笔记
 
-* [0.Readme](linux-xing-neng-you-hua-shi-zhan-bi-ji/3.linux-xing-neng-you-hua-shi-zhan.md)
-
+- [0.目录](读书/3.Linux性能优化实战/0.content.md)
