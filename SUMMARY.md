@@ -2,3 +2,7 @@
 
 * [小可杂记](README.md)
 
+## Linux性能优化
+
+* [Readme](linux-xing-neng-you-hua/readme.md)
+
